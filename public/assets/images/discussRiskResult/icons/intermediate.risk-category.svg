@@ -1,0 +1,161 @@
+
+<svg width="714px" height="85px" viewBox="0 0 714 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="6.95046867%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#57B588" offset="0%"></stop>
+            <stop stop-color="#78CA89" offset="15.8459264%"></stop>
+            <stop stop-color="#FFE17D" offset="31.4314715%"></stop>
+            <stop stop-color="#FFBB2C" offset="64.2884959%"></stop>
+            <stop stop-color="#FF5C1F" offset="79.3190034%"></stop>
+            <stop stop-color="#EF2F10" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.95046867%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#57B588" offset="0%"></stop>
+            <stop stop-color="#78CA89" offset="15.8459264%"></stop>
+            <stop stop-color="#FFE17D" offset="31.4314715%"></stop>
+            <stop stop-color="#FFBB2C" offset="64.2884959%"></stop>
+            <stop stop-color="#FF5C1F" offset="79.3190034%"></stop>
+            <stop stop-color="#EF2F10" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.95046867%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#57B588" offset="0%"></stop>
+            <stop stop-color="#78CA89" offset="15.8459264%"></stop>
+            <stop stop-color="#FFE17D" offset="31.4314715%"></stop>
+            <stop stop-color="#FFBB2C" offset="64.2884959%"></stop>
+            <stop stop-color="#FF5C1F" offset="79.3190034%"></stop>
+            <stop stop-color="#EF2F10" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.95046867%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#57B588" offset="0%"></stop>
+            <stop stop-color="#78CA89" offset="15.8459264%"></stop>
+            <stop stop-color="#FFE17D" offset="31.4314715%"></stop>
+            <stop stop-color="#FFBB2C" offset="64.2884959%"></stop>
+            <stop stop-color="#FF5C1F" offset="79.3190034%"></stop>
+            <stop stop-color="#EF2F10" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.95046867%" y1="50%" x2="100%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#57B588" offset="0%"></stop>
+            <stop stop-color="#78CA89" offset="15.8459264%"></stop>
+            <stop stop-color="#FFE17D" offset="31.4314715%"></stop>
+            <stop stop-color="#FFBB2C" offset="64.2884959%"></stop>
+            <stop stop-color="#FF5C1F" offset="79.3190034%"></stop>
+            <stop stop-color="#EF2F10" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.95046867%" y1="50%" x2="100%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#57B588" offset="0%"></stop>
+            <stop stop-color="#78CA89" offset="15.8459264%"></stop>
+            <stop stop-color="#FFE17D" offset="31.4314715%"></stop>
+            <stop stop-color="#FFBB2C" offset="64.2884959%"></stop>
+            <stop stop-color="#FF5C1F" offset="79.3190034%"></stop>
+            <stop stop-color="#EF2F10" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Calculator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="high-risk.reclassify.calculator.desktop" transform="translate(-454.000000, -499.000000)">
+            <g id="graph/intermediate.risk-category" transform="translate(455.969739, 495.000000)">
+                <g id="graph.shape.high" transform="translate(0.000000, 18.000000)">
+                    <g id="graph" transform="translate(0.030261, 0.000000)">
+                        <g id="shape">
+                            <rect id="all" fill="url(#linearGradient-1)" x="2" y="19" width="686" height="16" rx="4"></rect>
+                            <path d="M480.993122,9 L688.495186,9 L688.495186,9 L688.495186,45 L480.993122,45 C477.679414,45 474.993122,42.3137085 474.993122,39 L474.993122,15 C474.993122,11.6862915 477.679414,9 480.993122,9 Z" id="high" fill="url(#linearGradient-2)"></path>
+                            <rect id="intermediate" fill="url(#linearGradient-3)" x="237.986245" y="15" width="237.006878" height="24" rx="6"></rect>
+                            <rect id="low" fill="url(#linearGradient-4)" x="0" y="15" width="237.986245" height="24" rx="6"></rect>
+                            <path d="M690.328352,1.88938555 L710.732642,24.0926041 C711.445628,24.8684509 711.434369,26.0644011 710.706902,26.8266866 L690.315482,48.1940777 C689.934189,48.5936201 689.301197,48.6084141 688.901654,48.2271212 C688.703922,48.0384209 688.592046,47.777009 688.592046,47.5036857 L688.592046,2.5660348 C688.592046,2.01375005 689.039761,1.5660348 689.592046,1.5660348 C689.871916,1.5660348 690.138978,1.68331604 690.328352,1.88938555 Z" id="Rectangle" fill="url(#linearGradient-5)"></path>
+                        </g>
+                        <rect id="gradient" fill="url(#linearGradient-6)" x="0" y="0" width="710.041265" height="50"></rect>
+                    </g>
+                    <path d="M688.525447,32.3333333 L688.525447,40.4191925 C688.525447,42.5809128 686.713078,44.3333333 684.477407,44.3333333 L475.023384,44.3333333 M475.023384,8.33333333 L684.477407,8.33333333 C686.713078,8.33333333 688.525447,10.0857539 688.525447,12.2474742 L688.525447,20.3333333" id="high" stroke="#FFFFFF" stroke-width="3" transform="translate(581.774415, 26.333333) scale(-1, 1) translate(-581.774415, -26.333333) "></path>
+                    <path d="M475.05443,32 L475.05443,35.4488189 C475.05443,36.8577973 473.071036,38 470.624395,38 L242.477588,38 C240.030947,38 238.047552,36.8577973 238.047552,35.4488189 L238.047552,32 M238.047552,20 L238.047552,16.5511811 C238.047552,15.1422027 240.030947,14 242.477588,14 L470.624395,14 C473.071036,14 475.05443,15.1422027 475.05443,16.5511811 L475.05443,20" id="intermediate" stroke="#FFFFFF" stroke-width="3" transform="translate(356.550991, 26.000000) scale(-1, 1) translate(-356.550991, -26.000000) "></path>
+                    <path d="M238,32 L238,35.3333333 C238,36.8060927 236.008295,38 233.551402,38 L4.44859813,38 C1.99170523,38 0,36.8060927 0,35.3333333 L0,16.6666667 C0,15.1939073 1.99170523,14 4.44859813,14 L233.551402,14 C236.008295,14 238,15.1939073 238,16.6666667 L238,20" id="low" stroke="#FFFFFF" stroke-width="3"></path>
+                </g>
+                <g id="graph.unit" transform="translate(382.194014, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(525.967822, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(429.481903, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(287.618234, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(190.893931, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(143.606041, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(334.906124, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(96.318151, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(49.030261, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(669.543602, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(622.255712, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                    <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="graph.unit" transform="translate(573.255712, 33.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" opacity="0" x="0" y="0" width="48" height="24"></rect>
+                    <rect id="mark1" x="4.43396226" y="8" width="2" height="8" rx="1"></rect>
+                </g>
+                <g id="10" transform="translate(476.769793, 0.000000)">
+                    <g id="graph.unit" transform="translate(0.000000, 33.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle" opacity="0" x="0" y="0" width="48" height="24"></rect>
+                        <rect id="mark1" x="4.43396226" y="8" width="2" height="8" rx="1"></rect>
+                    </g>
+                    <text id="10%" font-family="RobotoFlexNormalNormalNormalNormalNormalNormalNormalNormalNormalDefault-Medium, Roboto Flex" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.1" fill="#79909C">
+                        <tspan x="0.198028869" y="13">10%</tspan>
+                    </text>
+                </g>
+                <g id="5" transform="translate(238.181821, 0.000000)">
+                    <g id="graph.unit" transform="translate(0.000000, 33.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle" opacity="0" x="0" y="0" width="47.6071835" height="24"></rect>
+                        <rect id="mark1" x="4.38949247" y="8" width="2" height="8" rx="1"></rect>
+                    </g>
+                    <text id="5%" font-family="RobotoFlexNormalNormalNormalNormalNormalNormalNormalNormalNormalDefault-Medium, Roboto Flex" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.1" fill="#79909C">
+                        <tspan x="0.436412768" y="13">5%</tspan>
+                    </text>
+                </g>
+                <g id="0" transform="translate(0.030261, 0.000000)">
+                    <g id="graph.unit" transform="translate(0.000000, 33.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle" opacity="0" x="0" y="0" width="46.2878899" height="24"></rect>
+                        <rect id="mark1" x="4.24013848" y="8" width="2" height="8" rx="1"></rect>
+                    </g>
+                    <text id="0%" font-family="RobotoFlexNormalNormalNormalNormalNormalNormalNormalNormalNormalDefault-Medium, Roboto Flex" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.1" fill="#79909C">
+                        <tspan x="0" y="13">0%</tspan>
+                    </text>
+                </g>
+                <text id="Low-Risk" font-family="RobotoFlex-Regular, Roboto Flex" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.1" fill="#79909C">
+                    <tspan x="105.922748" y="84">Low Risk</tspan>
+                </text>
+                <text id="Intermediate-risk" font-family="RobotoFlex-Regular, Roboto Flex" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.1" fill="#79909C">
+                    <tspan x="313.106549" y="84">Intermediate risk</tspan>
+                </text>
+                <text id="High-risk" font-family="RobotoFlexNormalNormalNormalNormalNormalNormalNormalNormalNormalDefault-SemiBold, Roboto Flex" font-size="14" font-weight="500" line-spacing="20" letter-spacing="0.1" fill="#546E7A">
+                    <tspan x="568.947552" y="84">High risk</tspan>
+                </text>
+                <text id="15%-&gt;" font-family="RobotoFlexNormalNormalNormalNormalNormalNormalNormalNormalNormalDefault-Medium, Roboto Flex" font-size="14" font-weight="400" line-spacing="20" letter-spacing="0.1" fill="#79909C">
+                    <tspan x="672.31928" y="13">15% &gt;</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
